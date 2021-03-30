@@ -1,43 +1,34 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: thessaly/resume
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Julieta Arancio
+#title: Your job title
+email: jarancio@protonmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+#phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://julieta.aranc.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+twitter_username: cassandreces
+github_username:  thessaly
+linkedin_username: aranciojulieta
+orcid_username: 0000-0002-8624-4182
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,64 +41,196 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a <mark>researcher</mark> in Science and Technology Studies, an <mark>advocate</mark> for democratization of science and technology and a <mark>mentor</mark> for open hardware projects. 
+  
+  You will usually find me in roles of translation between different kinds of expertise, in projects at the crossroads of technology, sustainability, science and education. 
+  
+  I enjoy learning and finding new ways of doing things, while contributing to  <mark>collaborative teams</mark> with a clear vision for change.
+  
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: Skills
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: <mark>Research</mark>
+        link: 
+        link_text: 
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        quote: 
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+            Research and curriculum design, conducting interviews and facilitating sessions with multiple stakeholders, collecting and analyzing big volumes of qualitative data, writing and editing scientific materials. 
+      - layout: left
+        title: <mark>Communications</mark>
+        link: 
+        link_text: 
+        additional_links:
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+            Presentations and public speaking, writing for technical, informed and general audiences, basic [audio and video editing](https://youtu.be/Al0YMjiggxk), [radio production](https://www.mixcloud.com/mugreradial/), [educational game design](https://ohwmakers.github.io/treasure-hunt/) for a virtual session. 
+            
+            **[List of presentations and publications]()**
+      - layout: left
+        title: <mark>Soft skills</mark>
+        link: 
+        link_text: 
+        additional_links:
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+            Project management, problem-solving, conflict management, mentoring, fundraising, collaborative work, event organization.
+      - layout: left
+        title: <mark>Technical</mark>
+        link: 
+        link_text: 
+        additional_links:
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+            Version control tools (git/GitHub/GitLab), basic web development (HTML, CSS, JS), Python and R scripts for data analysis, linked data [ontology design](http://www.visualdataweb.de/webvowl/#opts=filter_sco=true;#iri=https://raw.githubusercontent.com/cientopolis/appropedia-surgery/master/appropedia-skills.owl) using Protegé, operation of digital fabrication tools and programming of educational boards like Arduino, ESP32 or microBIT. 
+      - layout: left
+        title: <mark>Languages</mark>
+        link: 
+        link_text: 
+        additional_links:
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+            I speak  Spanish (native), English (bilingual), French (A2) and some Portuguese. 
+  - title: Ongoing projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Open Hardware Makers
+        link: openhardware.space
+        link_text: openhardware.space
+        additional_links:
+          #- title:  2019 - Present
+           # icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+            Co-founder (2019) of a global mentorship program for open hardware projects. General strategy, project management, curriculum design and communications. I led a global consultation for improving our curriculum with the open hardware community. 
+      - layout: left
+        title: reGOSH 
+        link: regosh.libres.cc
+        link_text: regosh.libres.cc
+        additional_links:
+          #- title:  2019 - Present
+           # icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote:
+        description: | # this will include new lines to allow paragraphs
+            Co-founder (2017) of the network, ex-coordinator of Buenos Aires node, in charge of the strategy working group. I co-organized a regional residency in 2019, having previously co-organized a Global Open Science Hardware (GOSH) event in Shenzhen, China, in 2018.
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: left
+        title: CENIT-UNSAM
+        sub_title: Associate researcher
+        caption: 2015 - Present
+        link: fund-cenit.org.ar
+        quote: 
         description: | # this will include new lines to allow paragraphs
-          Description of role
+             Doctoral researcher (2016-2021). Collaborator in ‘Open, Collaborative and Alternative Science: overcoming health, inclusion and environmental challenges in Argentina’ (2015-2016) funded by the International Development Research Centre, Canada (OCSDnet).
+      - layout: left
+        title: Appropedia Foundation
+        sub_title: Consultant
+        caption: 2020 - Present
+        link: appropedia.org
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+             Consultation services for a project in partnership with Intuitive Foundation (US), on the design and implementation of an ontology for remote learning of medical skills.
+      - layout: left
+        title: Journal of Open Hardware
+        sub_title: Editor
+        caption: 2020 - Present
+        link: openhardware.metajnl.com
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+             Member of the Editorial Board of the Journal of Open Hardware (JOH), a peer reviewed open access publication for open hardware research and development.
+      - layout: left
+        title: Wikimedia Switzerland
+        sub_title: Wikidata instructor
+        caption: 2019
+        link: wikimedia.ch
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+            Designer and instructor of Wikidata workshops for undergrad students at École polytechnique fédérale de Lausanne (EPFL).
+      - layout: left
+        title: Personal Data IO
+        sub_title: Community coordinator
+        caption: November 2018 - May 2019
+        link: personaldata.io
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+            Working directly with the founder of the startup, I was in charge of fundraising, communications and community coordination, plus co-development of a platform for users to easily ask for their personal data to companies online.
+      - layout: left
+        title: Geneva-Tsinghua Initiative, <br> University of Geneva
+        sub_title: Mentor for Sustainable Development Goals' projects
+        caption: July - September 2018
+        link: gt-initiative.org
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+           Mentor of Master’s students’ projects addressing the SDGs with a focus on challenge-based learning, community building and management of open source projects.
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: top-left
+        title: PhD in Science and Technology Studies
+        sub_title: Universidad Nacional de Quilmes <br> CONICET
+        caption: 2016-2021
+        quote: 
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+         My thesis (outstanding 10, with recommendation for publication) is titled *Technologies from dialogues: Open science hardware and democratization in the "peripheria"* and is available in Spanish at the UNQ online repository. 
+      - layout: top-left
+        title: Lic. in Environmental Science
+        sub_title: Universidad de Buenos Aires
+        caption: 2006-2011
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          5-year degree at the Agronomy College, orientation technology. My thesis was titled *Quality assessment of sediments of the Reconquista River (Buenos Aires), with emphasis in heavy metals* and is available in Spanish at the [FAUBA online repository](http://ri.agro.uba.ar/files/intranet/intensificacion/2011aranciojulieta.pdf).
+  - title: Funding received
+    layout: list
+    content:
+      - layout: top-left
+        title: Alfred P. Sloan Foundation
+        sub_title: Postdoctoral research funding
+        caption: 2021-2023
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          Postdoctoral funding (USD 220,000) for two years at Drexel University, under supervision of Asoc. Prof. Gwen Ottinger
+      - layout: top-left
+        title: Mozilla Foundation
+        sub_title: Science grant
+        caption: 2020
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          Personal grant (USD 12,000) supporting academic writing and community building
+      - layout: top-left
+        title: Shuttleworth Foundation
+        sub_title: Flash grant
+        caption: 2020
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          Personal grant (USD 5,000) to advance project LogAir
+      - layout: top-left
+        title: National Science and Research Council of Argentina (CONICET)
+        sub_title: PhD scholarship
+        caption: 2016-2021
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          Full support for pursuing my PhD at CENIT-UNSAM
+  - title: When I'm not working
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+          You can usually find me playing the flute or singing, reading comics, drawing my first comic (in progress!) or riding my bicycle. 
 
 # Footer
 footer_show_references: true
