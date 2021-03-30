@@ -6,7 +6,7 @@ repository: thessaly/resume
 version: 2
 
 # Personal info
-name: Julieta Arancio
+name: Julieta Arancio, PhD
 #title: Your job title
 email: jarancio@protonmail.com
 # email_title: Email (Email title override)
@@ -43,13 +43,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a <mark>researcher</mark> in Science and Technology Studies, an <mark>advocate</mark> for democratization of science and technology and a <mark>mentor</mark> for open hardware projects. 
-  
-  You will usually find me in roles of translation between different kinds of expertise, in projects at the crossroads of technology, sustainability, science and education. 
+  I am a <mark>researcher</mark> in Science and Technology Studies, an <mark>advocate</mark> for democratization of science and technology and a <mark>mentor</mark> for open hardware projects.   
   
   I enjoy learning and finding new ways of doing things, while contributing to  <mark>collaborative teams</mark> with a clear vision for change.
   
-
+  You will usually find me in roles of translation between different kinds of expertise, in projects at the crossroads of technology, sustainability, science and education. 
 
 content:
   - title: Skills
