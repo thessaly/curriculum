@@ -47,14 +47,14 @@ about_content: | # this will include new lines to allow paragraphs
   
   I enjoy learning and finding new ways of doing things, while contributing to  <mark>collaborative teams</mark> with a clear vision for change.
   
-  You will usually find me in roles of translation between different kinds of expertise, in projects at the crossroads of technology, sustainability, science and education. 
+  You will usually find me in roles of translation between different kinds of expertise, in projects at the crossroads of <mark>technology, sustainability, science and education</mark>. 
 
 content:
   - title: Skills
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <mark>Research</mark>
+        title: Research
         link: 
         link_text: 
         additional_links:
@@ -62,17 +62,16 @@ content:
         description: | # this will include new lines to allow paragraphs
             Research and curriculum design, conducting interviews and facilitating sessions with multiple stakeholders, collecting and analyzing big volumes of qualitative data, writing and editing scientific materials. 
       - layout: left
-        title: <mark>Communications</mark>
+        title: Communications
         link: 
         link_text: 
         additional_links:
         quote: 
         description: | # this will include new lines to allow paragraphs
             Presentations and public speaking, writing for technical, informed and general audiences, basic [audio and video editing](https://youtu.be/Al0YMjiggxk), [radio production](https://www.mixcloud.com/mugreradial/), [educational game design](https://ohwmakers.github.io/treasure-hunt/) for a virtual session. 
-            
-            **[List of presentations and publications]()**
+            >**[List of presentations and publications]()**
       - layout: left
-        title: <mark>Soft skills</mark>
+        title: Soft skills
         link: 
         link_text: 
         additional_links:
@@ -80,7 +79,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Project management, problem-solving, conflict management, mentoring, fundraising, collaborative work, event organization.
       - layout: left
-        title: <mark>Technical</mark>
+        title: Technical
         link: 
         link_text: 
         additional_links:
@@ -88,7 +87,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Version control tools (git/GitHub/GitLab), basic web development (HTML, CSS, JS), Python and R scripts for data analysis, linked data [ontology design](http://www.visualdataweb.de/webvowl/#opts=filter_sco=true;#iri=https://raw.githubusercontent.com/cientopolis/appropedia-surgery/master/appropedia-skills.owl) using Protegé, operation of digital fabrication tools and programming of educational boards like Arduino, ESP32 or microBIT. 
       - layout: left
-        title: <mark>Languages</mark>
+        title: Languages
         link: 
         link_text: 
         additional_links:
