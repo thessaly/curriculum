@@ -1,8 +1,8 @@
 <div class="container footer-container">
   <p>
-    <mark>Contact: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+    Contact: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
     {%- if site.footer_show_references -%}
       &nbsp;- {{ site.references_title | default: "References on request" }}
-    {%- endif -%}</mark>
+    {%- endif -%}
   </p>
 </div>

@@ -227,7 +227,7 @@ content:
   - title: When I'm not working
     layout: text
     content: | # this will include new lines to allow paragraphs
-          You can usually find me playing the flute or singing, reading comics, drawing my first comic (in progress!) or riding my bicycle. 
+          You can usually find me reading comics, drawing my first comic (in progress!), playing the [flute or clarinet](https://www.youtube.com/watch?v=xsb5qIvQ7J4&list=PLMuoRZ8V_6mknMTVpHpaYm9oC-rN33VJR), writing some [poetry in Spanish](https://thessaly.github.io/palabras/) or riding my bicycle. 
 
 # Footer
 footer_show_references: true
