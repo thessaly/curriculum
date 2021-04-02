@@ -121,6 +121,11 @@
           {{ site.website_title | default: "" }} {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
       {%- endif -%}
+      {%- if site.download -%}
+        <p>
+          {% include a.html href=site.download_title %}{{ site.download | escape }}</a>
+        </p>
+      {%- endif -%}
     </div>
   </div>
 </div>

@@ -1,5 +1,5 @@
 # Site
-repository: thessaly/resume
+repository: thessaly/curriculum
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -14,6 +14,8 @@ email: jarancio@protonmail.com
 # phone_title: Phone (Phone title override)
 website: https://julieta.aranc.io
 # website_title: Web (Website title override)
+download: CV in PDF for download
+download_title: https://drive.google.com/file/d/1t2J_lM2QFpcEgdxb0hMCY9mY9_Xky25R/view?usp=sharing
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,6 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
   I enjoy learning and finding new ways of doing things, while contributing to  <mark>collaborative teams</mark> with a clear vision for change.
   
   You will usually find me in roles of translation between different kinds of expertise, in projects at the crossroads of <mark>technology, sustainability, science and education</mark>. 
+
 
 content:
   - title: Skills
@@ -137,13 +140,21 @@ content:
         description: | # this will include new lines to allow paragraphs
              Doctoral researcher (2016-2021). Collaborator in ‘Open, Collaborative and Alternative Science: overcoming health, inclusion and environmental challenges in Argentina’ (2015-2016) funded by the International Development Research Centre, Canada (OCSDnet).
       - layout: left
-        title: Appropedia Foundation
-        sub_title: Consultant
-        caption: 2020 - Present
-        link: appropedia.org
+        title: Woodrow Wilson International Center for Scholars
+        sub_title: Lead author
+        caption: March 2021 - Present
+        link: wilsoncenter.org
         quote: 
         description: | # this will include new lines to allow paragraphs
-             Consultation services for a project in partnership with Intuitive Foundation (US), on the design and implementation of an ontology for remote learning of medical skills.
+             Lead researcher and writer of a white paper seeking to understand the value of low cost and open source hardware for scientific research.
+      - layout: left
+        title: Global Open Science Hardware
+        sub_title: Writer
+        caption: Feb 2021 - Present
+        link: openhardware.science
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+             Coordinating the drafting of workshop reports and a policy brief targeting universities' technology transfer offices
       - layout: left
         title: Journal of Open Hardware
         sub_title: Editor
@@ -152,6 +163,14 @@ content:
         quote: 
         description: | # this will include new lines to allow paragraphs
              Member of the Editorial Board of the Journal of Open Hardware (JOH), a peer reviewed open access publication for open hardware research and development.
+      - layout: left
+        title: Appropedia Foundation
+        sub_title: Consultant
+        caption: 2020 - Present
+        link: appropedia.org
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+             Consultation services for a project in partnership with Intuitive Foundation (US), on the design and implementation of an ontology for remote learning of medical skills.
       - layout: left
         title: Wikimedia Switzerland
         sub_title: Wikidata instructor
