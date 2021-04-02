@@ -260,8 +260,6 @@ content:
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #quote: 
         description: | # this will include new lines to allow paragraphs
-            - Arancio, J.; Arza, V.; Fressoli, M. (2020, August 18-21) Opening Tools For Opening Science: Lessons From Global Open Science Hardware Initiatives In Africa And Latin America, 4S/EASST Conference 2020 - Prague, Czech Republic (Virtual) 
-
             - Arancio, J. C. (2020, July 17). Opening Up The Tools For Doing Science: The Case Of The Global Open Science Hardware Movement. SocArXiv
             https://doi.org/10.31235 
 
