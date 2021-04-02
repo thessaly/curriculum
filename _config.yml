@@ -15,7 +15,9 @@ email: jarancio@protonmail.com
 website: https://julieta.aranc.io
 # website_title: Web (Website title override)
 download: CV in PDF for download
-download_title: https://drive.google.com/file/d/1t2J_lM2QFpcEgdxb0hMCY9mY9_Xky25R/view?usp=sharing
+download_url: https://drive.google.com/file/d/1t2J_lM2QFpcEgdxb0hMCY9mY9_Xky25R/view?usp=sharing
+#version_es: CV en español
+#version_es_url: google.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -72,7 +74,6 @@ content:
         quote: 
         description: | # this will include new lines to allow paragraphs
             Presentations and public speaking, writing for technical, informed and general audiences, basic [audio and video editing](https://youtu.be/Al0YMjiggxk), [radio production](https://www.mixcloud.com/mugreradial/), [educational game design](https://ohwmakers.github.io/treasure-hunt/) for a virtual session. 
-            >**[List of presentations and publications]()**
       - layout: left
         title: Soft skills
         link: 
@@ -243,6 +244,87 @@ content:
         quote: 
         description: | # this will include new lines to allow paragraphs
           Full support for pursuing my PhD at CENIT-UNSAM
+  - title: Publications and presentations
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Academic writing
+        #link: openhardware.space
+        #link_text: openhardware.space
+        #additional_links:
+          #- title:  2019 - Present
+           # icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: 
+        description: | # this will include new lines to allow paragraphs
+            - Arancio, J.; Arza, V.; Fressoli, M. (2020, August 18-21) Opening Tools For Opening Science: Lessons From Global Open Science Hardware Initiatives In Africa And Latin America, 4S/EASST Conference 2020 - Prague, Czech Republic (Virtual) 
+
+            - Arancio, J. C. (2020, July 17). Opening Up The Tools For Doing Science: The Case Of The Global Open Science Hardware Movement. SocArXiv
+            https://doi.org/10.31235 
+
+            - Arancio, J. ‘Open science hardware: towards more democratic science and technology in Latin America?’ Proceedings of 15th International
+            Symposium on Open Collaboration, University of Skövde, 2019. 
+
+            - Arancio, J.; Molloy, J. ‘The Global Open Science Hardware Roadmap: A Collaborative Effort towards Democratising Science Hardware’, extended
+            abstract for Tech4Dev Conference 2018 - UNESCO/EPFL (Lausanne, SZ) 
+        
+            - Arancio, J.; Sebastian, S.; Schwertz-Weirich, A.; Actis, G.; Cremaschi, A.; Arancibia, F.; Van Zwanenberg, P.; Fressoli, M. ‘Relato de experiencia -
+            Workshop internacional de desarrollo abierto y colaborativo’ in Liinc Em Revista, 2018 https://doi.org/10.18617/liinc.v14i1.4132 
+      - layout: left
+        title: Non-academic writing
+        #link: openhardware.space
+        #link_text: openhardware.space
+        #additional_links:
+          #- title:  2019 - Present
+           # icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: 
+        description: | # this will include new lines to allow paragraphs
+            - Arancio, J. ‘Open Science Hardware contributes to aligning the research agenda with societal needs’, in Journal of Open Hardware Blog, 2020 
+
+            - Dosemagen, S; Arancio, J. ‘Open Hardware Distribution & Documentation Working Group series’, in Journal of Open Hardware Blog, 2020 
+
+            - Arancio, J. ‘Open science hardware across the Andes’ in GOSH blog, 2018 
+
+            - Arancio, J. ‘GOSH Roadmap: democratising technology, from a Latin American perspective’, in STEPS Centre Blog, 2018 
+
+            - Arancio, J. ‘OpenCon 2017: Des-idealizando lo abierto para una mejor apertura’ in PlanC blog, 2018 
+
+            - Arancio, J.; Fressoli, M.; Arza, V. ‘Agroecology meets open source technologies’ in OCSDnet Blog, 2016
+      - layout: left
+        title: Conferences & Workshops
+        #link: openhardware.space
+        #link_text: openhardware.space
+        #additional_links:
+          #- title:  2019 - Present
+           # icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: 
+        description: | # this will include new lines to allow paragraphs
+            - STS Switzerland 2021 Conference (15-17 February 2021, Virtual) - Presenting author 
+
+            - 4S/EASST Conference (18-20 August 2020, Virtual) - Presenting author 
+
+            - Doctoral Consortium - OpenSym (2019, Sweden) - Presenting author 
+
+            - Global Open Science Hardware gathering (2018, China) - Organizing committee 
+
+            - Mozilla Festival (2018, London) - Presenting author
+
+            - OpenCon Swiss (2018, Bern) - Speaker 
+
+            - Tech4Dev (2018, Lausanne) - Presenting author 
+
+            - TECNOx (2018, Chile) - Speaker 
   - title: When I'm not working
     layout: text
     content: | # this will include new lines to allow paragraphs
