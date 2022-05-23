@@ -47,9 +47,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/juli(1).jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a <mark>postdoctoral researcher</mark> in science and technology studies, an <mark>advocate</mark> for democratization of science and technology and a <mark>community organiser</mark>.   
+  I am a <mark>postdoctoral researcher</mark> in science and technology studies, a <mark>mentor and curriculum designer</mark> and an <mark>advocate</mark> for science and technology democratisation. 
   
-  I enjoy learning and finding new ways of doing things, while contributing to  <mark>collaborative teams</mark> with a clear vision for change.
+  I enjoy open, collaborative environments that allow me to exchange ideas with different people and learn new skills while contributing to a clear vision for social change.
   
   You will usually find me in roles of translation between different kinds of expertise, in projects at the crossroads of <mark>technology, sustainability, science and education</mark>. 
 
@@ -65,15 +65,23 @@ content:
         additional_links:
         quote: 
         description: | # this will include new lines to allow paragraphs
-            Qualitative, multiple and single case study research: grant writing & research design; data collection including participant observation, conducting interviews, organising and facilitating sessions with multiple & diverse stakeholders (e.g. World Cafe, Delphi among others); data analysis using CAQDAS; writing and editing of peer-reviewed journal articles, policy briefs and articles for the general public.
+            I mainly conduct qualitative, multiple and single case study research, I sometimes complement these with quantitative data analysis. This includes grant writing & research design; conducting participant observation, interviews, organising and facilitating sessions with multiple & diverse stakeholders (e.g. World Cafe, Delphi among others); performing data analysis using CAQDAS; writing and editing peer-reviewed articles, policy briefs and articles for the general public. I'm also member of the editoral board of an international peer-reviewed publication.
       - layout: left
-        title: Communications
+        title: Education
         link: 
         link_text: 
         additional_links:
         quote: 
         description: | # this will include new lines to allow paragraphs
-            Invited speaker at [academic conferences](https://www.youtube.com/watch?v=xL4mFMpgOXA), [community gatherings](https://www.youtube.com/watch?v=bbCeRCjpo14), invited expert at [policy](https://www.youtube.com/watch?v=ngeUhFk1bWk) events; writing for technical, informed and general audiences (see publications below), basic [audio and video editing](https://youtu.be/Al0YMjiggxk), [radio production](https://www.mixcloud.com/mugreradial/), [educational game design](https://ohwmakers.github.io/treasure-hunt/). 
+            I organise and contribute to courses and programs in the intersection of innovation, technology and society. [Curriculum designer](https://curriculum.openhardware.space), co-designer of [educational games](https://ohwmakers.github.io/treasure-hunt/), [workshop instructor](https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_EPFL2019), [mentor](https://sdgsolutionspace.org/education-programs/summer-school/summer-school-2018/).       
+      - layout: left
+        title: Advocacy
+        link: 
+        link_text: 
+        additional_links:
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+            Invited speaker at [academic conferences](https://www.youtube.com/watch?v=xL4mFMpgOXA), [community gatherings](https://www.youtube.com/watch?v=bbCeRCjpo14), presented at policy [sessions](https://www.youtube.com/watch?v=ngeUhFk1bWk), [consulted](https://unesdoc.unesco.org/ark:/48223/pf0000375219) for the regional UNESCO recommendation on open science. I've recently written community-based policy briefs with the Global Open Science Hardware movement, I have experience hosting and producing [community radio programs](https://www.mixcloud.com/mugreradial/). .
       - layout: left
         title: Soft skills
         link: 
@@ -81,7 +89,7 @@ content:
         additional_links:
         quote: 
         description: | # this will include new lines to allow paragraphs
-            Project management (PMI-certified expected June 2022), community organising, open and collaborative leadership, events organisation, fundraising and mentoring.
+            Project management (PMI-certified expected June 2022), community organising, open and collaborative leadership, events organising, fundraising.
       - layout: left
         title: Technical skills
         link: 
@@ -89,7 +97,7 @@ content:
         additional_links:
         quote: 
         description: | # this will include new lines to allow paragraphs
-            Version control software and platforms (git/GitHub/GitLab), basic web development (HTML, CSS, some JS), Python and R scripts for data analysis in Jupyter notebooks/RStudio, linked data [ontology design](https://service.tib.eu/webvowl/#iri=https://raw.githubusercontent.com/cientopolis/appropedia-surgery/master/appropedia-skills.owl) using Protegé, all-things-Wiki, familiar with digital fabrication tools (laser cutting, 3D-printing) and educational boards/platforms like Arduino, ESP32 or microBIT. 
+            I often work with version control software and platforms (git/GitHub/GitLab), basic web development (HTML, CSS, some JS), Python and R scripts for data analysis in Jupyter notebooks/RStudio, linked data [ontology design](https://service.tib.eu/webvowl/#iri=https://raw.githubusercontent.com/cientopolis/appropedia-surgery/master/appropedia-skills.owl) in Protegé, and more broadly, all-things-Wikidata. I'm familiar with digital fabrication tools (laser cutting, 3D-printing) and educational boards/platforms like Arduino, ESP32 or microBIT. I can also do basic [audio and video editing](https://youtu.be/Al0YMjiggxk).
       - layout: left
         title: Languages
         link: 
@@ -98,6 +106,23 @@ content:
         quote: 
         description: | # this will include new lines to allow paragraphs
             I speak  Spanish (native), English (bilingual), French (A2) and I understand Portuguese. 
+  - title: Education
+    layout: list
+    content:
+      - layout: top-left
+        title: PhD in Science and Technology Studies
+        sub_title: Universidad Nacional de Quilmes <br> CONICET
+        caption: 2016-2021
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+         My thesis (Outstanding 10, with recommendation for publication) is titled *Technologies from dialogues: Open science hardware and democratization in the "peripheria"*. It is available in Spanish at the [UNQ online repository](https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/RIDAA_17239fdcb74dc63c5657fda942a33d4d) or in an easier to read version on my [PhD website](https://thessaly.github.io/phd/); you can also see a presentation about it during my [defence](https://www.youtube.com/watch?v=MzOi0bgDObQ), on YouTube. 
+      - layout: top-left
+        title: Lic. in Environmental Science
+        sub_title: Universidad de Buenos Aires
+        caption: 2006-2011
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          5-year Env. Sci. degree at the Agronomy College of University of Buenos Aires. My thesis was titled *Quality assessment of sediments of the Reconquista River (Buenos Aires), with emphasis in heavy metals* and is available in Spanish at the [FAUBA online repository](http://ri.agro.uba.ar/files/intranet/intensificacion/2011aranciojulieta.pdf).  
   - title: Work experience
     layout: list
     content:
@@ -218,23 +243,7 @@ content:
         quote:
         description: | # this will include new lines to allow paragraphs
             Co-founder (2017) of the network, ex-coordinator of Buenos Aires node, in charge of the strategy working group. I co-organized a regional residency in 2019, having previously co-organized a Global Open Science Hardware (GOSH) event in Shenzhen, China, in 2018.           
-  - title: Education
-    layout: list
-    content:
-      - layout: top-left
-        title: PhD in Science and Technology Studies
-        sub_title: Universidad Nacional de Quilmes <br> CONICET
-        caption: 2016-2021
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-         My thesis (Outstanding 10, with recommendation for publication) is titled *Technologies from dialogues: Open science hardware and democratization in the "peripheria"*. It is available in Spanish at the [UNQ online repository](https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/RIDAA_17239fdcb74dc63c5657fda942a33d4d) or in an easier to read version on my [PhD website](https://thessaly.github.io/phd/); you can also see a presentation about it during my [defence](https://www.youtube.com/watch?v=MzOi0bgDObQ), on YouTube. 
-      - layout: top-left
-        title: Lic. in Environmental Science
-        sub_title: Universidad de Buenos Aires
-        caption: 2006-2011
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-          5-year Env. Sci. degree at the Agronomy College of University of Buenos Aires. My thesis was titled *Quality assessment of sediments of the Reconquista River (Buenos Aires), with emphasis in heavy metals* and is available in Spanish at the [FAUBA online repository](http://ri.agro.uba.ar/files/intranet/intensificacion/2011aranciojulieta.pdf).
+
   - title: Funding received
     layout: list
     content:
