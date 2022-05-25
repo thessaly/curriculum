@@ -8,14 +8,14 @@ version: 2
 # Personal info
 name: Julieta Arancio, PhD
 #title: Your job title
-email: jarancio@bath.ac.uk
+email: ja2153@bath.ac.uk
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 website: https://julieta.aranc.io
 # website_title: Web (Website title override)
-download: CV in PDF for download
-download_url: https://drive.google.com/file/d/1t2J_lM2QFpcEgdxb0hMCY9mY9_Xky25R/view?usp=sharing
+download: Download a copy in PDF
+download_url:
 #version_es: CV en español
 #version_es_url: google.com
 
@@ -45,67 +45,27 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/juli(1).jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a <mark>postdoctoral researcher</mark> in science and technology studies, a <mark>mentor and curriculum designer</mark> and an <mark>advocate</mark> for science and technology democratisation. 
-  
-  I enjoy open, collaborative environments that allow me to exchange ideas with different people and learn new skills while contributing to a clear vision for social change.
-  
-  You will usually find me in roles of translation between different kinds of expertise, in projects at the crossroads of <mark>technology, sustainability, science and education</mark>. 
-
+  I am a <mark>postdoctoral researcher</mark> in science and technology studies, a <mark>mentor</mark>, <mark>curriculum designer</mark> and open science <mark>advocate</mark>.
+  <br><br>
+  I enjoy working in open, collaborative and interdisciplinary teams with a clear vision of change. You will usually find me in projects at the crossroads of technology, science, education and sustainability.
 
 content:
-  - title: Skills
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Research
-        link: 
-        link_text: 
-        additional_links:
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-            I mainly conduct qualitative, multiple and single case study research, I sometimes complement these with quantitative data analysis. This includes grant writing & research design; conducting participant observation, interviews, organising and facilitating sessions with multiple & diverse stakeholders (e.g. World Cafe, Delphi among others); performing data analysis using CAQDAS; writing and editing peer-reviewed articles, policy briefs and articles for the general public. I'm also member of the editoral board of an international peer-reviewed publication.
-      - layout: left
-        title: Education
-        link: 
-        link_text: 
-        additional_links:
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-            I organise and contribute to courses and programs in the intersection of innovation, technology and society. [Curriculum designer](https://curriculum.openhardware.space), co-designer of [educational games](https://ohwmakers.github.io/treasure-hunt/), [workshop instructor](https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_EPFL2019), [mentor](https://sdgsolutionspace.org/education-programs/summer-school/summer-school-2018/).       
-      - layout: left
-        title: Advocacy
-        link: 
-        link_text: 
-        additional_links:
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-            Invited speaker at [academic conferences](https://www.youtube.com/watch?v=xL4mFMpgOXA), [community gatherings](https://www.youtube.com/watch?v=bbCeRCjpo14), presented at policy [sessions](https://www.youtube.com/watch?v=ngeUhFk1bWk), [consulted](https://unesdoc.unesco.org/ark:/48223/pf0000375219) for the regional UNESCO recommendation on open science. I've recently written community-based policy briefs with the Global Open Science Hardware movement, I have experience hosting and producing [community radio programs](https://www.mixcloud.com/mugreradial/). .
-      - layout: left
-        title: Soft skills
-        link: 
-        link_text: 
-        additional_links:
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-            Project management (PMI-certified expected June 2022), community organising, open and collaborative leadership, events organising, fundraising.
-      - layout: left
-        title: Technical skills
-        link: 
-        link_text: 
-        additional_links:
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-            I often work with version control software and platforms (git/GitHub/GitLab), basic web development (HTML, CSS, some JS), Python and R scripts for data analysis in Jupyter notebooks/RStudio, linked data [ontology design](https://service.tib.eu/webvowl/#iri=https://raw.githubusercontent.com/cientopolis/appropedia-surgery/master/appropedia-skills.owl) in Protegé, and more broadly, all-things-Wikidata. I'm familiar with digital fabrication tools (laser cutting, 3D-printing) and educational boards/platforms like Arduino, ESP32 or microBIT. I can also do basic [audio and video editing](https://youtu.be/Al0YMjiggxk).
-      - layout: left
-        title: Languages
-        link: 
-        link_text: 
-        additional_links:
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-            I speak  Spanish (native), English (bilingual), French (A2) and I understand Portuguese. 
+  - title: About my work
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      <h2>Research</h2>
+
+      I conduct qualitative, multiple and single case study research, which I often complement with quantitative data analysis. This includes experience in grant writing, research design, data collection (participant observation, interviews, workshops and policy sessions), data analysis using CAQDAS, writing and editing peer-reviewed articles, policy briefs and pieces for the general public.<br><br>
+
+      <h2>Education</h2>
+
+      I contribute to programs in the intersection of innovation, technology and society. I was one of the [curriculum designers](https://curriculum.openhardware.space) of the community-based program [Open Hardware Makers](https://openhardware.space); I co-created [educational games](https://ohwmakers.github.io/treasure-hunt/), delivered training sessions on [open science tools](https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_EPFL2019), and worked as a [mentor](https://sdgsolutionspace.org/education-programs/summer-school/summer-school-2018/) for Masters' projects towards the Sustainable Development Goals.<br><br>
+
+      <h2>Advocacy</h2>
+
+      I co-founded [reGOSH](https//regosh.libres.cc), a network in Latin America for promoting open science hardware; I run a global [mentorship program](https://openhardware.space) for open hardware practitioners; and I created and facilitate monthly meetings of an online research community. I've been an invited speaker at [academic conferences](https://www.youtube.com/watch?v=xL4mFMpgOXA) and [community gatherings](https://www.youtube.com/watch?v=bbCeRCjpo14), I presented at policy [events](https://www.youtube.com/watch?v=ngeUhFk1bWk), and was [consulted](https://unesdoc.unesco.org/ark:/48223/pf0000375219) for the regional UNESCO recommendation on open science. I wrote policy briefs based on community discussions and have collaborated with think tanks like the Woodrow Wilson Center as a lead author. <br><br>
   - title: Education
     layout: list
     content:
@@ -113,17 +73,17 @@ content:
         title: PhD in Science and Technology Studies
         sub_title: Universidad Nacional de Quilmes <br> CONICET
         caption: 2016-2021
-        quote: 
+        quote:
         description: | # this will include new lines to allow paragraphs
-         My thesis (Outstanding 10, with recommendation for publication) is titled *Technologies from dialogues: Open science hardware and democratization in the "peripheria"*. It is available in Spanish at the [UNQ online repository](https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/RIDAA_17239fdcb74dc63c5657fda942a33d4d) or in an easier to read version on my [PhD website](https://thessaly.github.io/phd/); you can also see a presentation about it during my [defence](https://www.youtube.com/watch?v=MzOi0bgDObQ), on YouTube. 
+         My thesis (Outstanding 10, recommended for publication) is titled *Technologies from dialogues: Open science hardware and science democratization in the "peripheria"*. It is available in Spanish at the [UNQ online repository](https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/RIDAA_17239fdcb74dc63c5657fda942a33d4d) or in an easier to read version on my [PhD website](https://thessaly.github.io/phd/); you can also watch a short presentation about it during my [defence](https://www.youtube.com/watch?v=MzOi0bgDObQ), on YouTube.
       - layout: top-left
-        title: Lic. in Environmental Science
+        title: Lic. in Environmental Sciences
         sub_title: Universidad de Buenos Aires
         caption: 2006-2011
-        quote: 
+        quote:
         description: | # this will include new lines to allow paragraphs
-          5-year Env. Sci. degree at the Agronomy College of University of Buenos Aires. My thesis was titled *Quality assessment of sediments of the Reconquista River (Buenos Aires), with emphasis in heavy metals* and is available in Spanish at the [FAUBA online repository](http://ri.agro.uba.ar/files/intranet/intensificacion/2011aranciojulieta.pdf).  
-  - title: Work experience
+          Five-year Env. Sci. degree at the Agronomy College of University of Buenos Aires. My thesis was titled *Quality assessment of sediments of the Reconquista River (Buenos Aires), with emphasis in heavy metals* and is available in Spanish at the [FAUBA online repository](http://ri.agro.uba.ar/files/intranet/intensificacion/2011aranciojulieta.pdf).<br><br>
+  - title: Research experience
     layout: list
     content:
       - layout: left
@@ -131,7 +91,7 @@ content:
         sub_title: Postdoctoral researcher
         caption: 2021 - 2023
         link: https://drexel.edu/coas/faculty-research/faculty-directory/postdocs/arancio-julieta/
-        quote: 
+        quote:
         description: | # this will include new lines to allow paragraphs
              Postdoctoral researcher funded by the Alfred P. Sloan Foundation to conduct a case study of the [Open Flexure Microscope](https://openflexure.org/) at University of Bath (UK) and the Ifakara Health Institute (Tanzania).
       - layout: left
@@ -139,65 +99,52 @@ content:
         sub_title: Associate researcher
         caption: 2015 - Present
         link: fund-cenit.org.ar
-        quote: 
+        quote:
         description: | # this will include new lines to allow paragraphs
-             Doctoral researcher (2016-2021). Collaborator in ‘Open, Collaborative and Alternative Science: overcoming health, inclusion and environmental challenges in Argentina’ (2015-2016) funded by the International Development Research Centre, Canada (OCSDnet).
+             I'm currently part of CENIT-UNSAM as an associate researcher, after working as a doctoral researcher (2016-2021) funded by the National Scientific and Technical Research Council (CONICET). Previously, I was a collaborator in *‘Open, Collaborative and Alternative Science: overcoming health, inclusion and environmental challenges in Argentina’* (2015-2016) funded by the International Development Research Centre, Canada (IDRC-OCSDnet).<br><br>
+  - title: Other work experience
+    layout: list
+    content:
       - layout: left
         title: Woodrow Wilson International Center for Scholars
         sub_title: Lead author
         caption: March 2021 - Present
         link: wilsoncenter.org
-        quote: 
+        quote:
         description: | # this will include new lines to allow paragraphs
-             Lead researcher and writer of a white paper seeking to understand the value of low cost and open source hardware for scientific research.
+             Lead researcher and writer of a white paper on low cost and open source hardware for scientific research.
       - layout: left
-        title: Global Open Science Hardware
+        title: Global Open Science Hardware, Inc.
         sub_title: Writer
         caption: Feb 2021 - Present
-        link: openhardware.science
-        quote: 
+        link: openhardware.science/policy-briefs
+        quote:
         description: | # this will include new lines to allow paragraphs
-             Coordinating the drafting of workshop reports and a policy brief targeting universities' technology transfer offices
-      - layout: left
-        title: Journal of Open Hardware
-        sub_title: Editor
-        caption: 2020 - Present
-        link: openhardware.metajnl.com
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-             Member of the Editorial Board of the Journal of Open Hardware (JOH), a peer reviewed open access publication for open hardware research and development.
+             Writer of two policy briefs and four policy memos on open science hardware, targeted at various audiences.
       - layout: left
         title: Appropedia Foundation
         sub_title: Consultant
         caption: 2020 - Present
         link: appropedia.org
-        quote: 
+        quote:
         description: | # this will include new lines to allow paragraphs
-             Consultation services for a project in partnership with Intuitive Foundation (US), on the design and implementation of an ontology for remote learning of medical skills.
+             Design and implementation of an open ontology for supporting remote and effective knowledge transfer of surgical skills at a low cost. Part of the "Global Surgical Training Challenge" organised by Appropedia Foundation in partnership with Intuitive Foundation, MIT Solve, and Nesta Challenges.
       - layout: left
         title: Wikimedia Switzerland
         sub_title: Wikidata instructor
         caption: 2019
         link: wikimedia.ch
-        quote: 
+        quote:
         description: | # this will include new lines to allow paragraphs
-            Designer and instructor of Wikidata workshops for undergrad students at École polytechnique fédérale de Lausanne (EPFL).
-      - layout: left
-        title: Personal Data IO
-        sub_title: Community coordinator
-        caption: November 2018 - May 2019
-        link: personaldata.io
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-            Working directly with the founder of the startup, I was in charge of fundraising, communications and community coordination, plus co-development of a platform for users to easily ask for their personal data to companies online.
+            Designer and instructor of Wikidata workshops for undergrad students at the École polytechnique fédérale de Lausanne (EPFL), Switzerland.
       - layout: left
         title: Geneva-Tsinghua Initiative, <br> University of Geneva
         sub_title: Mentor for Sustainable Development Goals' projects
         caption: July - September 2018
         link: gt-initiative.org
-        quote: 
+        quote:
         description: | # this will include new lines to allow paragraphs
-           Mentor of Master’s students’ projects addressing the SDGs with a focus on challenge-based learning, community building and management of open source projects.
+           Mentor of Master students’ projects addressing the Sustainable Development Goals, with a focus on challenge-based learning, community building and management of open source projects.
   - title: Community organising # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -212,9 +159,9 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: 
+        quote:
         description: | # this will include new lines to allow paragraphs
-            Co-founder (2019) of a [global mentorship program](https://openhardware.space) for open hardware projects. General strategy, project management, curriculum design and communications. I led a community consultation process for improving our curriculum with the global open hardware community. 
+            Co-founder (2019) of a [global mentorship program](https://openhardware.space) for open hardware projects. General strategy, project management, curriculum design and communications. I led a community consultation process for improving our curriculum with the global open hardware community.
       - layout: left
         title: Open Hardware research community
         link: https://oh-research-group.github.io/
@@ -226,11 +173,11 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: 
+        quote:
         description: | # this will include new lines to allow paragraphs
-            Founder (2022) and organiser of an open, collaborative community of researchers studying the socioeconomic aspects of open hardware practice. 
+            Founder (2022) and organiser of an open, collaborative community of researchers studying the socioeconomic aspects of open hardware practice.
       - layout: left
-        title: reGOSH 
+        title: reGOSH
         link: regosh.libres.cc
         link_text: regosh.libres.cc
         additional_links:
@@ -242,40 +189,9 @@ content:
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote:
         description: | # this will include new lines to allow paragraphs
-            Co-founder (2017) of the network, ex-coordinator of Buenos Aires node, in charge of the strategy working group. I co-organized a regional residency in 2019, having previously co-organized a Global Open Science Hardware (GOSH) event in Shenzhen, China, in 2018.           
+            Co-founder (2017) of the network, ex-coordinator of Buenos Aires node, in charge of the strategy working group. I co-organized a regional residency in 2019, having previously co-organized a Global Open Science Hardware (GOSH) event in Shenzhen, China, in 2018.
 
-  - title: Funding received
-    layout: list
-    content:
-      - layout: top-left
-        title: Alfred P. Sloan Foundation
-        sub_title: Postdoctoral research funding
-        caption: 2021-2023
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-          Postdoctoral funding (USD 220,000) for two years at Drexel University, under supervision of Asoc. Prof. Gwen Ottinger (Drexel University).
-      - layout: top-left
-        title: Mozilla Foundation
-        sub_title: Science grant
-        caption: 2020
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-          Personal grant (USD 12,000) supporting academic writing and community building
-      - layout: top-left
-        title: Shuttleworth Foundation
-        sub_title: Flash grant
-        caption: 2020
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-          Personal grant (USD 5,000) to advance project LogAir
-      - layout: top-left
-        title: National Science and Research Council of Argentina (CONICET)
-        sub_title: PhD scholarship
-        caption: 2016-2021
-        quote: 
-        description: | # this will include new lines to allow paragraphs
-          Full support for pursuing my PhD at CENIT-UNSAM
-  - title: Publications and presentations
+  - title: Writing and public speaking
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -289,18 +205,15 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: 
+        #quote:
         description: | # this will include new lines to allow paragraphs
             - Arancio, J. C. (2021). Opening Up The Tools For Doing Science: The Case Of The Global Open Science Hardware Movement. International Journal of Engineering, Social Justice, and Peace, 8(2), 1–27. https://doi.org/10.24908/ijesjp.v8i2.13997
 
             - Arancio, J. ‘Open science hardware: towards more democratic science and technology in Latin America?’ Proceedings of 15th International
-            Symposium on Open Collaboration, University of Skövde, 2019. 
+            Symposium on Open Collaboration, University of Skövde, 2019.
 
-            - Arancio, J.; Molloy, J. ‘The Global Open Science Hardware Roadmap: A Collaborative Effort towards Democratising Science Hardware’, extended
-            abstract for Tech4Dev Conference 2018 - UNESCO/EPFL (Lausanne, SZ) 
-        
-            - Arancio, J.; Sebastian, S.; Schwertz-Weirich, A.; Actis, G.; Cremaschi, A.; Arancibia, F.; Van Zwanenberg, P.; Fressoli, M. ‘Relato de experiencia, Workshop internacional de desarrollo abierto y colaborativo’ in Liinc Em Revista, 2018 https://doi.org/10.18617/liinc.v14i1.4132 
-            
+            - Arancio, J.; Sebastian, S.; Schwertz-Weirich, A.; Actis, G.; Cremaschi, A.; Arancibia, F.; Van Zwanenberg, P.; Fressoli, M. ‘Relato de experiencia, Workshop internacional de desarrollo abierto y colaborativo’ in Liinc Em Revista, 2018 https://doi.org/10.18617/liinc.v14i1.4132
+
       - layout: left
         title: Policy briefs
         #link: openhardware.space
@@ -312,11 +225,13 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: 
+        #quote:
         description: | # this will include new lines to allow paragraphs
             - Arancio, Julieta. (2021). Open Hardware: A key for accelerating science and technology towards the U.N. Sustainable Development Goals (SDGs). Zenodo. https://doi.org/10.5281/zenodo.5415527
-            
+
             - Arancio, Julieta, & Molloy, Jenny. (2021). Open Hardware is ready to help Technology Transfer Offices (TTOs) maximise the impact of academic research. Zenodo. https://doi.org/10.5281/zenodo.5094999
+
+            - Arancio, Julieta & collaborators. (2021) Open Science Hardware, Research Funding Salons. https://openhardware.science/2021-research-funding-salons/
 
       - layout: left
         title: General public
@@ -329,17 +244,16 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: 
+        #quote:
         description: | # this will include new lines to allow paragraphs
-            - Arancio, Julieta and Dosemagen, Shannon. ‘Bringing Open Source to the Global Lab Bench.’ Issues in Science and Technology 38, no. 2 (Winter 2022): 18–20.
-            - Arancio, J. ‘Diversifying technology transfer tools to increase the impact of academic research’. IPR Blog, University of Bath. Available at: https://blogs.bath.ac.uk/iprblog/2021/12/10/diversifying-technology-transfer-tools-to-increase-the-impact-of-academic-research/.
-            
-            - Arancio, J. ‘Open Science Hardware contributes to aligning the research agenda with societal needs’, in Journal of Open Hardware Blog, 2020 
+            - Arancio, Julieta and Dosemagen, Shannon. (2022) ‘Bringing Open Source to the Global Lab Bench.’ Issues in Science and Technology 38, no. 2: 18–20. Available at: https://issues.org/open-source-science-hardware-gosh-arancio-dosemagen/
 
-            - Dosemagen, S; Arancio, J. ‘Open Hardware Distribution & Documentation Working Group series’, in Journal of Open Hardware Blog, 2020 
+            - Arancio, Julieta. (2022). ‘Diversifying technology transfer tools to increase the impact of academic research’. IPR Blog, University of Bath. Available at: https://blogs.bath.ac.uk/iprblog/2021/12/10/diversifying-technology-transfer-tools-to-increase-the-impact-of-academic-research/.
+
+            - Arancio, Julieta. (2020) ‘Open Science Hardware contributes to aligning the research agenda with societal needs’, in Journal of Open Hardware Blog. Available at https://journalopenhw.medium.com/open-science-hardware-contributes-to-aligning-the-research-agenda-with-societal-needs-dba991239f5e
 
       - layout: left
-        title: Conferences & Events
+        title: Public speaking & presentations
         #link: openhardware.space
         #link_text: openhardware.space
         #additional_links:
@@ -349,31 +263,117 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: 
+        #quote:
         description: | # this will include new lines to allow paragraphs
-            - 4S/ESOCITE (2022, Cholula) - Panel organiser
-            
+            - Society for Social Studies of Science Meeting 4S/ESOCITE (2022, Cholula) - Panel organiser
+            - Regional Open Science Hardware Latin America (reGOSH 2022, Argentina) - Invited speaker
             - EASST Conference (2022, Madrid) - Presenting author
-            
-            - STS Switzerland 2021 Conference (15-17 February 2021, Virtual) - Presenting author 
-
-            - 4S/EASST Conference (18-20 August 2020, Virtual) - Presenting author 
-
-            - Doctoral Consortium - OpenSym (2019, Sweden) - Presenting author 
-
-            - Global Open Science Hardware gathering (2018, China) - Organizing committee 
-
+            - Fundación AVINA (2022, online) - Invited speaker
+            - STS Switzerland 2021 Conference (15-17 February 2021, online) - Presenting author
+            - 4S/EASST Conference (18-20 August 2020, online) - Presenting author
+            - Doctoral Consortium - OpenSym (2019, Sweden) - Presenting author
+            - Global Open Science Hardware gathering (2018, China) - Co-organiser & facilitator
             - Mozilla Festival (2018, London) - Presenting author
+            - OpenCon Swiss (2018, Bern) - Invited speaker
+            - UNESCO Tech4Dev (2018, Lausanne) - Presenting author
 
-            - OpenCon Swiss (2018, Bern) - Speaker 
+  - title: Funding received
+    layout: list
+    content:
+      - layout: top-left
+        title: Alfred P. Sloan Foundation
+        sub_title: Postdoctoral research funding
+        caption: 2021-2023
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          Postdoctoral funding (USD 220,000) for two years at Drexel University, under supervision of Asoc. Prof. Gwen Ottinger (Drexel University).
+      - layout: top-left
+        title: Mozilla Foundation
+        sub_title: Science grant
+        caption: 2020
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          Personal grant (USD 12,000) supporting academic writing and community building
+      - layout: top-left
+        title: Shuttleworth Foundation
+        sub_title: Flash grant
+        caption: 2020
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          Personal grant (USD 5,000) to advance project LogAir
+      - layout: top-left
+        title: National Science and Research Council of Argentina (CONICET)
+        sub_title: PhD scholarship
+        caption: 2016-2021
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          Full support for pursuing my PhD at CENIT-UNSAM
 
-            - Tech4Dev (2018, Lausanne) - Presenting author 
+  - title: Professional associations
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: British Sociological Association
+        sub_title: Member
+        link: britsoc.co.uk
+        quote:
+        description: | # this will include new lines to allow paragraphs
+             Member of the UK Sociology Association since 2022, involved in the Early Career Researchers Network in the South-West of England.
+      - layout: left
+        title: Association for Studies in Innovation Science and Technology (AsSIST-UK)
+        sub_title: Member
+        link: assistuk.org
+        quote:
+        description: | # this will include new lines to allow paragraphs
+             Member of AsSIST-UK since 2022, an association supporting transdisciplinary collaboration across the social sciences, humanities and sciences in the field of science, innovation and technology.
+      - layout: left
+        title: European Association for the Study of Science and Technology
+        sub_title: Member
+        link: easst.net
+        quote:
+        description: | # this will include new lines to allow paragraphs
+             Member of EASST since 2020, an organization representing academics and researchers in science, technology and innovation studies.
+      - layout: left
+        title: Journal of Open Hardware
+        sub_title: Member of the editorial board
+        link: openhardware.metajnl.com
+        quote:
+        description: | # this will include new lines to allow paragraphs
+             Member of the Editorial Board of the Journal of Open Hardware (JOH) since 2020, a peer reviewed open access publication for open hardware research and development.
+             <br><br>
 
-            - TECNOx (2018, Chile) - Speaker 
+  - title: Other skills
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Soft skills
+        link:
+        link_text:
+        additional_links:
+        quote:
+        description: | # this will include new lines to allow paragraphs
+            Project management (PMI-certified expected June 2022), community organising, open and collaborative leadership, events organising, fundraising.
+      - layout: left
+        title: Technical skills
+        link:
+        link_text:
+        additional_links:
+        quote:
+        description: | # this will include new lines to allow paragraphs
+            I often work with version control software and platforms (git/GitHub/GitLab), basic web development (HTML, CSS, some JS and frameworks like Jekyll), Python and R scripts for data analysis in Jupyter notebooks/RStudio, [ontology design](https://service.tib.eu/webvowl/#iri=https://raw.githubusercontent.com/cientopolis/appropedia-surgery/master/appropedia-skills.owl) in Protegé, and more broadly, all-things-Wikidata. I'm familiar with digital fabrication tools (laser cutting, 3D-printing) and educational boards/platforms like Arduino, ESP32 or microBIT. I can also do basic [audio and video editing](https://youtu.be/Al0YMjiggxk).
+      - layout: left
+        title: Languages
+        link:
+        link_text:
+        additional_links:
+        quote:
+        description: | # this will include new lines to allow paragraphs
+            I speak  Spanish (native), English (bilingual), French (A2) and I understand Portuguese.<br><br>
+
   - title: When I'm not working
     layout: text
     content: | # this will include new lines to allow paragraphs
-          You can usually find me reading comics, drawing my first comic (in progress!), playing the [flute or clarinet](https://www.youtube.com/watch?v=xsb5qIvQ7J4&list=PLMuoRZ8V_6mknMTVpHpaYm9oC-rN33VJR), writing some [poetry in Spanish](https://thessaly.github.io/palabras/) or riding my bicycle. 
+          You can usually find me reading comics, drawing my first comic (in progress!), playing the [flute or clarinet](https://www.youtube.com/watch?v=xsb5qIvQ7J4&list=PLMuoRZ8V_6mknMTVpHpaYm9oC-rN33VJR), writing some [poetry in Spanish](https://thessaly.github.io/palabras/) or riding my bicycle.
 
 # Footer
 footer_show_references: true
