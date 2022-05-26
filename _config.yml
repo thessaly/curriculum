@@ -15,7 +15,7 @@ email: ja2153@bath.ac.uk
 website: https://julieta.aranc.io
 # website_title: Web (Website title override)
 download: Download a copy in PDF
-download_url:
+download_url: https://github.com/thessaly/curriculum/raw/main/cv-pdf.pdf
 #version_es: CV en español
 #version_es_url: google.com
 
