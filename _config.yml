@@ -61,11 +61,11 @@ content:
 
       <h2>Education</h2>
 
-      I contribute to programs in the intersection of innovation, technology and society. I was one of the [curriculum designers](https://curriculum.openhardware.space) of the community-based program [Open Hardware Makers](https://openhardware.space); I co-created [educational games](https://ohwmakers.github.io/treasure-hunt/), delivered training sessions on [open science tools](https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_EPFL2019), and worked as a [mentor](https://sdgsolutionspace.org/education-programs/summer-school/summer-school-2018/) for Masters' projects towards the Sustainable Development Goals.<br><br>
+      I contribute to programmes in the intersection of innovation, technology and society. I am one of the [curriculum designers](https://curriculum.openhardware.space) of the community-based programme [Open Hardware Makers](https://openhardware.space); I co-created [educational games](https://ohwmakers.github.io/treasure-hunt/), delivered training sessions on [open science tools](https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_EPFL2019), and worked as a [mentor](https://sdgsolutionspace.org/education-programs/summer-school/summer-school-2018/) for Masters' projects towards the Sustainable Development Goals.<br><br>
 
       <h2>Advocacy</h2>
 
-      I co-founded [reGOSH](https//regosh.libres.cc), a network in Latin America for promoting open science hardware; I run a global [mentorship program](https://openhardware.space) for open hardware practitioners; and I created and facilitate monthly meetings of an online research community. I've been an invited speaker at [academic conferences](https://www.youtube.com/watch?v=xL4mFMpgOXA) and [community gatherings](https://www.youtube.com/watch?v=bbCeRCjpo14), I presented at policy [events](https://www.youtube.com/watch?v=ngeUhFk1bWk), and was [consulted](https://unesdoc.unesco.org/ark:/48223/pf0000375219) for the regional UNESCO recommendation on open science. I wrote policy briefs based on community discussions and have collaborated with think tanks like the Woodrow Wilson Center as a lead author. <br><br>
+      I co-founded [reGOSH](https//regosh.libres.cc), a network in Latin America for promoting open science hardware; I run a global [mentorship programme](https://openhardware.space) for open hardware practitioners; and I created and facilitate monthly meetings of an online research community. I've been an invited speaker at [academic conferences](https://www.youtube.com/watch?v=xL4mFMpgOXA) and [community gatherings](https://www.youtube.com/watch?v=bbCeRCjpo14), I presented at policy [events](https://www.youtube.com/watch?v=ngeUhFk1bWk), and was [consulted](https://unesdoc.unesco.org/ark:/48223/pf0000375219) for the regional UNESCO recommendation on open science. I wrote policy briefs based on community discussions and have collaborated with think tanks like the Woodrow Wilson Center as a lead author. <br><br>
   - title: Education
     layout: list
     content:
@@ -75,7 +75,7 @@ content:
         caption: 2016-2021
         quote:
         description: | # this will include new lines to allow paragraphs
-         My thesis (Outstanding 10, recommended for publication) is titled *Technologies from dialogues: Open science hardware and science democratization in the "peripheria"*. It is available in Spanish at the [UNQ online repository](https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/RIDAA_17239fdcb74dc63c5657fda942a33d4d) or in an easier to read version on my [PhD website](https://thessaly.github.io/phd/); you can also watch a short presentation about it during my [defence](https://www.youtube.com/watch?v=MzOi0bgDObQ), on YouTube.
+         My thesis (Outstanding 10, recommended for publication) is titled *Technologies from dialogues: Open science hardware and science democratisation in the "periphery  "*. It is available in Spanish at the [UNQ online repository](https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/RIDAA_17239fdcb74dc63c5657fda942a33d4d) or in an easier to read version on my [PhD website](https://thessaly.github.io/phd/); you can also watch a short presentation about it during my [defence](https://www.youtube.com/watch?v=MzOi0bgDObQ), on YouTube.
       - layout: top-left
         title: Lic. in Environmental Sciences
         sub_title: Universidad de Buenos Aires
@@ -161,7 +161,7 @@ content:
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote:
         description: | # this will include new lines to allow paragraphs
-            Co-founder (2019) of a [global mentorship program](https://openhardware.space) for open hardware projects. General strategy, project management, curriculum design and communications. I led a community consultation process for improving our curriculum with the global open hardware community.
+            Co-founder (2019) of a [global mentorship programme](https://openhardware.space) for open hardware projects. General strategy, project management, curriculum design and communications. I led a community consultation process for improving our curriculum with the global open hardware community.
       - layout: left
         title: Open Hardware research community
         link: https://oh-research-group.github.io/
@@ -189,7 +189,7 @@ content:
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote:
         description: | # this will include new lines to allow paragraphs
-            Co-founder (2017) of the network, ex-coordinator of Buenos Aires node, in charge of the strategy working group. I co-organized a regional residency in 2019, having previously co-organized a Global Open Science Hardware (GOSH) event in Shenzhen, China, in 2018.
+            Co-founder (2017) of the network, ex-coordinator of Buenos Aires node, in charge of the strategy working group. I co-organised a regional residency in 2019, having previously co-organised a Global Open Science Hardware (GOSH) event in Shenzhen, China, in 2018.
 
   - title: Writing and public speaking
     layout: list # Type of content section (list/text)
@@ -332,7 +332,7 @@ content:
         link: easst.net
         quote:
         description: | # this will include new lines to allow paragraphs
-             Member of EASST since 2020, an organization representing academics and researchers in science, technology and innovation studies.
+             Member of EASST since 2020, an organisation representing academics and researchers in science, technology and innovation studies.
       - layout: left
         title: Journal of Open Hardware
         sub_title: Member of the editorial board
