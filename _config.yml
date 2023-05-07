@@ -207,6 +207,10 @@ content:
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #quote:
         description: | # this will include new lines to allow paragraphs
+            - Arancio, J., Tirado, M. M., & Pearce, J. (2022). Equitable Research Capacity Towards the Sustainable Development Goals: The Case for Open Science Hardware. J. Sci. Policy Gov, 21. https://doi.org/10.38126/JSPG210202
+            
+            -  Arancio, Julieta and Velis, Emilio and Torres, Diego (2022) Documenting and assessing open innovation: co-creation of an open data model for surgical training. fteval Journal for Research and Technology Policy Evaluation (54). pp. 81-90. ISSN 1726-6629 
+            
             - Arancio, J. C. (2021). Opening Up The Tools For Doing Science: The Case Of The Global Open Science Hardware Movement. International Journal of Engineering, Social Justice, and Peace, 8(2), 1–27. https://doi.org/10.24908/ijesjp.v8i2.13997
 
             - Arancio, J. ‘Open science hardware: towards more democratic science and technology in Latin America?’ Proceedings of 15th International
@@ -227,6 +231,7 @@ content:
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #quote:
         description: | # this will include new lines to allow paragraphs
+            
             - Arancio, Julieta. (2021). Open Hardware: A key for accelerating science and technology towards the U.N. Sustainable Development Goals (SDGs). Zenodo. https://doi.org/10.5281/zenodo.5415527
 
             - Arancio, Julieta, & Molloy, Jenny. (2021). Open Hardware is ready to help Technology Transfer Offices (TTOs) maximise the impact of academic research. Zenodo. https://doi.org/10.5281/zenodo.5094999
@@ -246,6 +251,10 @@ content:
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #quote:
         description: | # this will include new lines to allow paragraphs
+            - SPARC Impact Stories (2023) "Often Overlooked Sharing of Hardware is a Missing Link in Open Science Puzzle" available at https://sparcopen.org/impact-story/often-overlooked-sharing-of-hardware-is-a-missing-link-in-open-science-puzzle/
+            
+            - Arancio, J.; Kutschera, A.; Maia Chagas, A.; Ezeike, E. and Havemann, J. (2022) ‘Access to Perspectives - Conversations: Open Hardware Makers’. Podcast. Available at: https://doi.org/10.21428/51e64700.b528ba98
+            
             - Arancio, Julieta and Dosemagen, Shannon. (2022) ‘Bringing Open Source to the Global Lab Bench.’ Issues in Science and Technology 38, no. 2: 18–20. Available at: https://issues.org/open-source-science-hardware-gosh-arancio-dosemagen/
 
             - Arancio, Julieta. (2022). ‘Diversifying technology transfer tools to increase the impact of academic research’. IPR Blog, University of Bath. Available at: https://blogs.bath.ac.uk/iprblog/2021/12/10/diversifying-technology-transfer-tools-to-increase-the-impact-of-academic-research/.
@@ -265,6 +274,9 @@ content:
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #quote:
         description: | # this will include new lines to allow paragraphs
+            - UN Open Science Conference (2023, New York) - Invited speaker, available at [UN website](https://media.un.org/en/asset/k16/k16gs2is15?kalturaStartTime=14405)
+            - MIT Media Lab (2022, Cambridge MA) - Invited speaker
+            - Cambridge Chemical Engineering and Biotechnology Department (2022, Cambridge UK) - Invited speaker
             - Society for Social Studies of Science Meeting 4S/ESOCITE (2022, Cholula) - Panel organiser
             - Regional Open Science Hardware Latin America (reGOSH 2022, Argentina) - Invited speaker
             - EASST Conference (2022, Madrid) - Presenting author
@@ -277,6 +289,17 @@ content:
             - OpenCon Swiss (2018, Bern) - Invited speaker
             - UNESCO Tech4Dev (2018, Lausanne) - Presenting author
 
+  - title: Awards
+    layout: list
+    content:
+      - layout: top-left
+        title: UNESCO - Journal of Science Policy & Governance
+        sub_title: Policy papers competition
+        caption: 2023
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          Paper Competition First Place Winner for "Equitable Research Capacity Towards the  Sustainable Development Goals: The Case for Open Science Hardware"
+  
   - title: Funding received
     layout: list
     content:
